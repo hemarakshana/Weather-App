@@ -15,10 +15,8 @@ A dynamic and responsive web application that provides real-time weather updates
 - **Design**: Custom CSS with hover effects and responsive grid layout
 
 ## 🎨 Screenshots
-- Display of current weather with icons
-- Search functionality for new locations
-- Dynamic forecast layout
-(*Insert screenshots here if available*)
+```bash
+git add images/img.png
 
 ## 📦 Installation
 1. Clone this repository:
