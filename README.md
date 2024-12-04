@@ -17,6 +17,11 @@ A dynamic and responsive web application that provides real-time weather updates
 ## 🎨 Screenshots
 ```bash
 git add images/img.png
+git commit -m
+git push
+```
+![](C:\Users\lenovo\Desktop\Projects\Github projects\Weather)
+![](Weather/img.png)
 
 ## 📦 Installation
 1. Clone this repository:
