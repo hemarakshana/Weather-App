@@ -20,8 +20,8 @@ git add images/img.png
 git commit -m
 git push
 ```
-![](C:\Users\lenovo\Desktop\Projects\Github projects\Weather)
-![](Weather/img.png)
+![Location of the file](C:\Users\lenovo\Desktop\Projects\Github projects\Weather\img.png)
+![Screenshot of the project](Weather/img.png)
 
 ## 📦 Installation
 1. Clone this repository:
